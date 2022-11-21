@@ -1,7 +1,7 @@
 {
   "products": [
     {
-      "category": "nightstands",
+      "categoryId": "nightstands",
       "title": "Sausalito 19\" Nightstand",
       "price": {
         "tag": "$599",
@@ -20,7 +20,7 @@
       "id": "zkQNjLV"
     },
     {
-      "category": "nightstands",
+      "categoryId": "nightstands",
       "title": "Cayman 27\" Nightstand",
       "price": {
         "tag": "$499",
@@ -50,7 +50,7 @@
       "id": "5znRvcM"
     },
     {
-      "category": "beds",
+      "categoryId": "beds",
       "title": "Cayman Platform Bed & Headboard",
       "price": {
         "tag": "$1,299-$1,499",
@@ -86,7 +86,7 @@
       "id": "a6Sf9bN"
     },
     {
-      "category": "beds",
+      "categoryId": "beds",
       "title": "Livingston Bed",
       "price": {
         "tag": "$1,799-$1,999",
@@ -122,7 +122,7 @@
       "id": "GNK6QWz"
     },
     {
-      "category": "headboards",
+      "categoryId": "headboards",
       "title": "Sausalito Cane Headboard",
       "price": {
         "tag": "$879-$959",
@@ -149,7 +149,7 @@
       "id": "GgyvQlK"
     },
     {
-      "category": "dressers",
+      "categoryId": "dressers",
       "title": "Sausalito 8-Drawer Wide Dresser",
       "price": {
         "tag": "$2,199",
