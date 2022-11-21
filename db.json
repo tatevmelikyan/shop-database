@@ -147,6 +147,28 @@
         }
       ],
       "id": "GgyvQlK"
+    },
+    {
+      "category": "dressers",
+      "title": "Sausalito 8-Drawer Wide Dresser",
+      "price": {
+        "tag": "$2,199",
+        "numbers": [2199]
+      },
+      "description": "The texture and finish of Sausalito's driftwood-inspired frame exude relaxed refinement. Crafted of wood, the classic molding and turned leg details give this casual vibe a chic, global feel.",
+      "details": "Expertly crafted of kiln-dried solid meranti wood with Sungkai and MDF veneers.The frame and legs are crafted from solid Meranti wood. Meranti wood is a medium to coarse textured wood which ranges in color with a slightly interlocked grain pattern.",
+      "imageUrls": ["https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202242/0015/sausalito-8-drawer-wide-dresser-z.jpg","https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202238/0069/sausalito-8-drawer-wide-dresser-z.jpg","https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202237/0045/sausalito-8-drawer-wide-dresser-z.jpg"],
+      "variations": [
+        {
+          "id": "finish",
+          "options": [
+            "seadrift",
+            "charcoal",
+            "montauk-white"
+          ]
+        }
+      ],
+      "id": "95dea076-ee1a-454b-8537-188947a295b1"
     }
   ],
   "variationOptions": [
