@@ -1,0 +1,619 @@
+{
+  "products": [
+    {
+      "category": "nightstands",
+      "title": "Sausalito 19\" Nightstand",
+      "price": {
+        "tag": "$599",
+        "numbers": [
+          599
+        ]
+      },
+      "description": "The texture and finish of Sausalito's driftwood-inspired frame exude relaxed refinement. Crafted of wood and rattan, the textural caning adds a timeless look and airy feel we love.",
+      "details": "Expertly crafted from solid meranti wood, sungkai veneers, engineered wood, MDF and finished in Seadrift.Crafted of meranti, a tropical hardwood with a long, beautiful grain.To protect finish; do not apply abrasives or household cleaners, dust with soft dry cloth. Packaging Dimensions & Weight: 23\" w x 19.25\" d x 32\" h; 48.5 lbs.",
+      "imageUrls": [
+        "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202229/0145/sausalito-19-nightstand-z.jpg",
+        "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202229/0142/sausalito-19-nightstand-z.jpg",
+        "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202226/0043/sausalito-19-nightstand-z.jpg"
+      ],
+      "variations": [],
+      "id": "zkQNjLV"
+    },
+    {
+      "category": "nightstands",
+      "title": "Cayman 27\" Nightstand",
+      "price": {
+        "tag": "$499",
+        "numbers": [
+          499
+        ]
+      },
+      "description": "A salute to minimalist design, our Cayman Collection has an approachable look and coastal vibe. Crafted of solid wood, the dimensional finish adds a character and warmth to each piece.",
+      "details": "Nightstand features 1 drawer and 1 shelf for additional storage.Finished by hand on all sides using an exclusive multi-step process to achieve a Warm Black or Biscotti finish, then sealed with a protective lacquer.Biscotti and Warm Black finish is crafted of mango wood.Biscotti and Warm Black finished pieces are sustainably sourced.Kiln-dried wood helps prevent warping, splitting, cracking and developing mildew.Drawer features metal drawer glides, removable with plastic locks on sides (push upwards).Adjustable levelers help with stability on uneven surfaces.No assembly required.Imported.",
+      "imageUrls": [
+        "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202228/0078/cayman-27-nightstand-1-z.jpg",
+        "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202226/0047/cayman-platform-bed-headboard-z.jpg",
+        "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202246/0002/cayman-27-nightstand-z.jpg",
+        "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202231/0022/cayman-27-nightstand-z.jpg",
+        "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202226/0004/cayman-27-nightstand-z.jpg"
+      ],
+      "variations": [
+        {
+          "id": "finish",
+          "options": [
+            "warm-black",
+            "biscotti",
+            "coffee-bean"
+          ]
+        }
+      ],
+      "id": "5znRvcM"
+    },
+    {
+      "category": "beds",
+      "title": "Cayman Platform Bed & Headboard",
+      "price": {
+        "tag": "$1,299-$1,499",
+        "numbers": [
+          1299,
+          1499
+        ]
+      },
+      "description": "A salute to minimalist design, our Cayman Collection has an approachable look and coastal vibe. Crafted of solid wood, the dimensional finish adds a character and warmth to each piece. This strikes a modern balance of sleek right angles and relaxed, gently curved edges.",
+      "details": "Biscotti and Warm Black finishes are masterfully crafted with kiln-dried mango wood, sustainably sourced.Crafted of mango wood, a sustainably sourced and ultra-durable hardwood.Kiln-dried wood helps prevent warping, splitting, cracking and developing mildew.Do not expose to direct sunlight or excessive temps.",
+      "imageUrls": [
+        "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202222/0251/cayman-platform-bed-headboard-z.jpg",
+        "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202247/0015/cayman-platform-bed-headboard-z.jpg",
+        "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202233/0212/bodhi-king-bench-1-z.jpg"
+      ],
+      "variations": [
+        {
+          "id": "finish",
+          "options": [
+            "biscotti",
+            "warm-black",
+            "coffee-bean"
+          ]
+        },
+        {
+          "id": "size",
+          "options": [
+            "queen",
+            "king"
+          ]
+        }
+      ],
+      "id": "a6Sf9bN"
+    },
+    {
+      "category": "beds",
+      "title": "Livingston Bed",
+      "price": {
+        "tag": "$1,799-$1,999",
+        "numbers": [
+          1799,
+          1999
+        ]
+      },
+      "description": "Classic details like crown molding, fluted trim and artisan-applied finishes give the Livingston Collection timeless appeal. The room-defining bed features decorative details all around and a footboard that rests on a plinth base. Designed to work beautifully with the other components, it creates a bedroom that is both inviting and sophisticated.",
+      "details": "Expertly crafted with solid meranti wood, and MDF and sungkai veneers.The use of veneers results in high-quality furniture with flawless surfaces and consistent color tones.",
+      "imageUrls": [
+        "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202245/0385/livingston-bed-1-z.jpg",
+        "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202234/0581/catalina-coastal-organic-cotton-duvet-cover-z.jpg",
+        "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202229/0147/livingston-bed-z.jpg"
+      ],
+      "variations": [
+        {
+          "id": "finish",
+          "options": [
+            "biscotti",
+            "warm-black",
+            "coffee-bean"
+          ]
+        },
+        {
+          "id": "size",
+          "options": [
+            "queen",
+            "king"
+          ]
+        }
+      ],
+      "id": "GNK6QWz"
+    },
+    {
+      "category": "headboards",
+      "title": "Sausalito Cane Headboard",
+      "price": {
+        "tag": "$879-$959",
+        "numbers": [
+          897,
+          959
+        ]
+      },
+      "description": "The texture and finish of Sausalito's driftwood-inspired frame exude relaxed refinement. Crafted of wood and rattan, the textural caning adds a timeless look and airy feel we love.",
+      "details": "Expertly crafted from solid meranti wood, sungkai veneers, engineered wood, MDF and finished in Seadrift.Crafted of meranti, a tropical hardwood with a long, beautiful grain.To protect finish; do not apply abrasives or household cleaners, dust with soft dry cloth",
+      "imageUrls": [
+        "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202234/0628/sausalito-cane-headboard-z.jpg",
+        "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202234/0615/sausalito-cane-headboard-z.jpg"
+      ],
+      "variations": [
+        {
+          "id": "size",
+          "options": [
+            "queen",
+            "king"
+          ]
+        }
+      ],
+      "id": "GgyvQlK"
+    }
+  ],
+  "variationOptions": [
+    {
+      "id": "warm-black",
+      "name": "WARM BLACK",
+      "image": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202225/0142/img82m.jpg",
+      "variationId": "finish"
+    },
+    {
+      "id": "biscotti",
+      "name": "BISCOTTI",
+      "image": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202243/0009/img64m.jpg",
+      "variationId": "finish"
+    },
+    {
+      "id": "coffee-bean",
+      "name": "COFFEE BEAN",
+      "image": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202229/0035/img8m.jpg",
+      "variationId": "finish"
+    },
+    {
+      "id": "seadrift",
+      "name": "SEADRIFT",
+      "image": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202243/0010/img10m.jpg",
+      "variationId": "finish"
+    },
+    {
+      "id": "charcoal",
+      "name": "CHARCOAL",
+      "image": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202229/0005/img10m.jpg",
+      "variationId": "finish"
+    },
+    {
+      "id": "montauk-white",
+      "name": "MONTAUK WHITE",
+      "image": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202229/0003/img33m.jpg",
+      "variationId": "finish"
+    },
+    {
+      "id": "gray-wash",
+      "name": "GRAY WASH",
+      "image": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202232/0016/img53m.jpg",
+      "variationId": "finish"
+    },
+    {
+      "id": "bone-white",
+      "name": "BONE WHITE",
+      "image": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202231/0316/img1m.jpg",
+      "variationId": "finish"
+    },
+    {
+      "id": "dusty-charcoal",
+      "name": "DUSTY CHARCOAL",
+      "image": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202232/0017/img29m.jpg",
+      "variationId": "finish"
+    },
+    {
+      "id": "walnut",
+      "name": "WALNUT",
+      "image": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202225/0087/img41m.jpg",
+      "variationId": "finish"
+    },
+    {
+      "id": "hewn-oak",
+      "name": "HEWN OAK",
+      "image": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202229/0010/img35m.jpg",
+      "variationId": "finish"
+    },
+    {
+      "id": "mahogany",
+      "name": "MAHOGANY",
+      "image": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202229/0010/img52m.jpg",
+      "variationId": "finish"
+    },
+    {
+      "id": "queen",
+      "name": "Queen",
+      "variationId": "size"
+    },
+    {
+      "id": "king",
+      "name": "King",
+      "variationId": "size"
+    },
+    {
+      "id": "california-king",
+      "name": "California King",
+      "variationId": "size"
+    },
+    {
+      "id": "statesville-molasses",
+      "name": "Statesville Molasses",
+      "image": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202229/0011/img73l.jpg",
+      "variationId": "fabric"
+    },
+    {
+      "id": "statesville-pebble",
+      "name": "Statesville Pebble",
+      "image": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202229/0010/img80r.jpg",
+      "variationId": "fabric"
+    }
+  ],
+  "variations": [
+    {
+      "id": "finish",
+      "name": "FINISH"
+    },
+    {
+      "id": "size",
+      "name": "SIZE"
+    },
+    {
+      "id": "fabric",
+      "name": "FABRIC"
+    }
+  ],
+  "categories": [
+    {
+      "id": "nightstands",
+      "name": "Nightstands",
+      "variations": [
+        "finish"
+      ],
+      "subDepartmentId": "bedroom"
+    },
+    {
+      "id": "beds",
+      "name": "Beds",
+      "variations": [
+        "finish",
+        "size"
+      ],
+      "subDepartmentId": "bedroom"
+    },
+    {
+      "id": "headboards",
+      "name": "Headboards",
+      "variations": [
+        "finish",
+        "size"
+      ],
+      "subDepartmentId": "bedroom"
+    },
+    {
+      "id": "dressers",
+      "name": "Dressers",
+      "variations": [
+        "finish"
+      ],
+      "subDepartmentId": "bedroom"
+    },
+    {
+      "id": "benches",
+      "name": "Benches",
+      "variations": [
+        "finish"
+      ],
+      "subDepartmentId": "bedroom"
+    },
+    {
+      "id": "mattresses",
+      "name": "Mattresses & Foundations",
+      "variations": [
+        "size"
+      ],
+      "subDepartmentId": "bedroom"
+    },
+    {
+      "id": "coffee-tables",
+      "name": "Coffee Tables",
+      "variations": [
+        "finish"
+      ],
+      "subDepartmentId": "living-room"
+    },
+    {
+      "id": "sofas",
+      "name": "Sofas",
+      "variations": [
+        "fabric"
+      ],
+      "subDepartmentId": "living-room"
+    },
+    {
+      "id": "chairs",
+      "name": "Chairs",
+      "variations": [],
+      "subDepartmentId": "living-room"
+    },
+    {
+      "id": "tv-stands",
+      "name": "TV Stands",
+      "variations": [],
+      "subDepartmentId": "living-room"
+    },
+    {
+      "id": "dining-tables",
+      "name": "Dining Tables",
+      "variations": [],
+      "subDepartmentId": "dining-kitchen"
+    },
+    {
+      "id": "dining-chairs",
+      "name": "Dining Chairs",
+      "variations": [],
+      "subDepartmentId": "dining-kitchen"
+    },
+    {
+      "id": "bar-counter-stools",
+      "name": "Bar & Counter Stools",
+      "variations": [],
+      "subDepartmentId": "dining-kitchen"
+    },
+    {
+      "id": "bar-kitchen",
+      "name": "Bar & Kitchen Furniture",
+      "variations": [],
+      "subDepartmentId": "dining-kitchen"
+    },
+    {
+      "id": "sheets",
+      "name": "Sheets",
+      "variations": [],
+      "subDepartmentId": "bedding-essentials"
+    },
+    {
+      "id": "comforters",
+      "name": "Comforters",
+      "variations": [],
+      "subDepartmentId": "bedding-essentials"
+    },
+    {
+      "id": "duvet-covers",
+      "name": "Duvet Covers",
+      "variations": [],
+      "subDepartmentId": "bedding-essentials"
+    },
+    {
+      "id": "holiday-quilts",
+      "name": "Holiday Quilts",
+      "variations": [],
+      "subDepartmentId": "holiday-bedding"
+    },
+    {
+      "id": "holiday-sheets",
+      "name": "Holiday Sheets",
+      "variations": [],
+      "subDepartmentId": "holiday-bedding"
+    },
+    {
+      "id": "chandeliers",
+      "name": "Chandeliers",
+      "variations": [],
+      "subDepartmentId": "ceiling-lighting"
+    },
+    {
+      "id": "ceiling-fans",
+      "name": "Ceiling Fans",
+      "variations": [],
+      "subDepartmentId": "ceiling-lighting"
+    },
+    {
+      "id": "chandeliers",
+      "name": "Chandeliers",
+      "variations": [],
+      "subDepartmentId": "ceiling-lighting"
+    },
+    {
+      "id": "table-desk-lamps",
+      "name": "Table & Desk Lamps",
+      "variations": [],
+      "subDepartmentId": "table-floor-lamps"
+    },
+    {
+      "id": "floor-lamps",
+      "name": "Floor Lamps",
+      "variations": [],
+      "subDepartmentId": "table-floor-lamps"
+    },
+    {
+      "id": "vanities",
+      "name": "Bath Vanities",
+      "variations": [],
+      "subDepartmentId": "vanities-bathtubs"
+    },
+    {
+      "id": "bathtubs",
+      "name": "Bathtubs",
+      "variations": [],
+      "subDepartmentId": "vanities-bathtubs"
+    },
+    {
+      "id": "bath-towels",
+      "name": "Bath Towels",
+      "variations": [],
+      "subDepartmentId": "towels-linens"
+    },
+    {
+      "id": "bath-mats",
+      "name": "Bath Mats",
+      "variations": [],
+      "subDepartmentId": "towels-linens"
+    },
+    {
+      "id": "shower-curtains",
+      "name": "Shower Curtains",
+      "variations": [],
+      "subDepartmentId": "towels-linens"
+    },
+    {
+      "id": "pillow-inserts",
+      "name": "Pillow Inserts",
+      "variations": [],
+      "subDepartmentId": "pillows"
+    },
+    {
+      "id": "outdoor-pillows",
+      "name": "Outdoor Pillows",
+      "variations": [],
+      "subDepartmentId": "pillows"
+    },
+    {
+      "id": "throw-blankets",
+      "name": "Throw Blankets",
+      "variations": [],
+      "subDepartmentId": "throws"
+    },
+    {
+      "id": "picture-frames",
+      "name": "Picture Frames",
+      "variations": [],
+      "subDepartmentId": "frames-vases"
+    },
+    {
+      "id": "vases",
+      "name": "Vases",
+      "variations": [],
+      "subDepartmentId": "frames-vases"
+    },
+    {
+      "id": "candles-home-fragrance",
+      "name": "Candles & Home Fragrance",
+      "variations": [],
+      "subDepartmentId": "candles"
+    },
+    {
+      "id": "lanterns-candleholders",
+      "name": "Lanterns & Candleholders",
+      "variations": [],
+      "subDepartmentId": "candles"
+    },
+    {
+      "id": "ornaments-tree-toppers",
+      "name": "Ornaments & Tree Toppers",
+      "variations": [],
+      "subDepartmentId": "christmas-decor"
+    },
+    {
+      "id": "stockings",
+      "name": "Stockings & Stocking Holders",
+      "variations": [],
+      "subDepartmentId": "christmas-decor"
+    },
+    {
+      "id": "christmas-trees",
+      "name": "Faux Christmas Trees",
+      "variations": [],
+      "subDepartmentId": "christmas-decor"
+    }
+  ],
+  "subDepartments": [
+    {
+      "id": "bedroom",
+      "name": "Bedroom Furniture",
+      "departmentId": "furniture"
+    },
+    {
+      "id": "living-room",
+      "name": "Living Room Furniture",
+      "departmentId": "furniture"
+    },
+    {
+      "id": "dining-kitchen",
+      "name": "Dining & Kitchen Furniture",
+      "departmentId": "furniture"
+    },
+    {
+      "id": "bedding-essentials",
+      "name": "Bedding Essentials",
+      "departmentId": "bedding"
+    },
+    {
+      "id": "holiday-bedding",
+      "name": "Holiday Bedding",
+      "departmentId": "bedding"
+    },
+    {
+      "id": "ceiling-lighting",
+      "name": "Ceiling Lighting",
+      "departmentId": "lighting"
+    },
+    {
+      "id": "table-floor-lamps",
+      "name": "Table & Floor Lamps",
+      "departmentId": "lighting"
+    },
+    {
+      "id": "vanities-bathtubs",
+      "name": "Vanities & Bathtubs",
+      "departmentId": "bath"
+    },
+    {
+      "id": "towels-linens",
+      "name": "Towels & Linens",
+      "departmentId": "bath"
+    },
+    {
+      "id": "pillows",
+      "name": "Pillows",
+      "departmentId": "pillows-decor"
+    },
+    {
+      "id": "throws",
+      "name": "Throws",
+      "departmentId": "pillows-decor"
+    },
+    {
+      "id": "frames-vases",
+      "name": "Frames & Vases",
+      "departmentId": "pillows-decor"
+    },
+    {
+      "id": "candles",
+      "name": "Candles",
+      "departmentId": "pillows-decor"
+    },
+    {
+      "id": "christmas-decor",
+      "name": "Christmas Decor",
+      "departmentId": "holidays"
+    }
+  ],
+  "departments": [
+    {
+      "id": "furniture",
+      "name": "Furniture"
+    },
+    {
+      "id": "bedding",
+      "name": "Bedding"
+    },
+    {
+      "id": "lighting",
+      "name": "Lighting"
+    },
+    {
+      "id": "bath",
+      "name": "Bath"
+    },
+    {
+      "id": "pillows-decor",
+      "name": "Pillows & Decor"
+    },
+    {
+      "id": "holidays",
+      "name": "Holidays"
+    }
+  ]
+}
