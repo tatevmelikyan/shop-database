@@ -293,6 +293,7 @@
       "variations": [
         "finish"
       ],
+      "imageUrl": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202229/0189/cayman-16-charging-nightstand-z.jpg",
       "subDepartmentId": "bedroom"
     },
     {
@@ -302,6 +303,7 @@
         "finish",
         "size"
       ],
+      "imageUrl": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202245/0385/livingston-bed-1-z.jpg",
       "subDepartmentId": "bedroom"
     },
     {
@@ -311,6 +313,7 @@
         "finish",
         "size"
       ],
+      "imageUrl": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202234/0924/montgomery-upholstered-headboard-z.jpg",
       "subDepartmentId": "bedroom"
     },
     {
@@ -319,6 +322,7 @@
       "variations": [
         "finish"
       ],
+      "imageUrl": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202223/0035/oakleigh-7-drawer-dresser-z.jpg",
       "subDepartmentId": "bedroom"
     },
     {
@@ -327,6 +331,7 @@
       "variations": [
         "finish"
       ],
+      "imageUrl": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202239/0041/millie-upholstered-bench-2-z.jpg",
       "subDepartmentId": "bedroom"
     },
     {
@@ -335,6 +340,7 @@
       "variations": [
         "size"
       ],
+      "imageUrl": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202236/0709/beautyrest-harmony-lux-hybrid-mattress-empress-series-2-z.jpg",
       "subDepartmentId": "bedroom"
     },
     {
@@ -343,6 +349,7 @@
       "variations": [
         "finish"
       ],
+      "imageUrl": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202245/0006/griffin-reclaimed-wood-coffee-table-z.jpg",
       "subDepartmentId": "living-room"
     },
     {
@@ -351,192 +358,217 @@
       "variations": [
         "fabric"
       ],
+      "imageUrl": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202243/0057/buchanan-roll-arm-upholstered-sofa-xl.jpg",
       "subDepartmentId": "living-room"
     },
     {
       "id": "chairs",
       "name": "Chairs",
       "variations": [],
+      "imageUrl": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202239/0652/ayden-barrel-upholstered-swivel-armchair-with-wood-base-1-xl.jpg",
       "subDepartmentId": "living-room"
     },
     {
       "id": "tv-stands",
       "name": "TV Stands",
       "variations": [],
+      "imageUrl": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202238/0104/livingston-7-piece-entertainment-center-z.jpg",
       "subDepartmentId": "living-room"
     },
     {
       "id": "dining-tables",
       "name": "Dining Tables",
       "variations": [],
+      "imageUrl": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202225/0705/banks-extending-dining-table-2-z.jpg",
       "subDepartmentId": "dining-kitchen"
     },
     {
       "id": "dining-chairs",
       "name": "Dining Chairs",
       "variations": [],
+      "imageUrl": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202232/0937/benchwright-dining-chair-1-z.jpg",
       "subDepartmentId": "dining-kitchen"
     },
     {
       "id": "bar-counter-stools",
       "name": "Bar & Counter Stools",
       "variations": [],
+      "imageUrl": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202224/0157/maison-leather-bar-counter-stools-z.jpg",
       "subDepartmentId": "dining-kitchen"
     },
     {
       "id": "bar-kitchen",
       "name": "Bar & Kitchen Furniture",
       "variations": [],
+      "imageUrl": "https://assets.weimgs.com/weimgs/rk/images/wcm/products/202239/0036/frame-kitchen-console-marble-1-xl.jpg",
       "subDepartmentId": "dining-kitchen"
     },
     {
       "id": "sheets",
       "name": "Sheets",
       "variations": [],
+      "imageUrl": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202224/0056/700-thread-count-sateen-sheet-set-o.jpg",
       "subDepartmentId": "bedding-essentials"
     },
     {
       "id": "comforters",
       "name": "Comforters",
       "variations": [],
+      "imageUrl": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202224/0028/img44z.jpg",
       "subDepartmentId": "bedding-essentials"
     },
     {
       "id": "duvet-covers",
       "name": "Duvet Covers",
       "variations": [],
+      "imageUrl": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202238/0687/rustic-forest-duvet-cover-1-z.jpg",
       "subDepartmentId": "bedding-essentials"
     },
     {
       "id": "holiday-quilts",
       "name": "Holiday Quilts",
       "variations": [],
+      "imageUrl": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202234/0324/noelle-star-applique-quilt-c.jpg",
       "subDepartmentId": "holiday-bedding"
     },
     {
       "id": "holiday-sheets",
       "name": "Holiday Sheets",
       "variations": [],
+      "imageUrl": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202234/0928/christmas-in-the-country-organic-percale-sheet-set-c.jpg",
       "subDepartmentId": "holiday-bedding"
     },
     {
       "id": "chandeliers",
       "name": "Chandeliers",
       "variations": [],
+      "imageUrl": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202238/0680/mallory-crystal-round-chandelier-1-z.jpg",
       "subDepartmentId": "ceiling-lighting"
     },
     {
       "id": "ceiling-fans",
       "name": "Ceiling Fans",
       "variations": [],
-      "subDepartmentId": "ceiling-lighting"
-    },
-    {
-      "id": "chandeliers",
-      "name": "Chandeliers",
-      "variations": [],
+      "imageUrl": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202228/0031/54-briar-outdoor-ceiling-fan-1-o.jpg",
       "subDepartmentId": "ceiling-lighting"
     },
     {
       "id": "table-desk-lamps",
       "name": "Table & Desk Lamps",
       "variations": [],
+      "imageUrl": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202239/0078/flynn-recycled-glass-usb-table-lamp-1-z.jpg",
       "subDepartmentId": "table-floor-lamps"
     },
     {
       "id": "floor-lamps",
       "name": "Floor Lamps",
       "variations": [],
+      "imageUrl": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202232/0133/fig-iron-floor-lamp-z.jpg",
       "subDepartmentId": "table-floor-lamps"
     },
     {
       "id": "vanities",
       "name": "Bath Vanities",
       "variations": [],
+      "imageUrl": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202227/0077/benchwright-72-double-sink-vanity-1-o.jpg",
       "subDepartmentId": "vanities-bathtubs"
     },
     {
       "id": "bathtubs",
       "name": "Bathtubs",
       "variations": [],
+      "imageUrl": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202225/0062/brayson-66-handcrafted-freestanding-concrete-bathtub-1-o.jpg",
       "subDepartmentId": "vanities-bathtubs"
     },
     {
       "id": "bath-towels",
       "name": "Bath Towels",
       "variations": [],
+      "imageUrl": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202226/0689/hydrocotton-organic-towel-bundle-set-of-6-o.jpg",
       "subDepartmentId": "towels-linens"
     },
     {
       "id": "bath-mats",
       "name": "Bath Mats",
       "variations": [],
+      "imageUrl": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202242/0284/arlette-cotton-bath-mat-7-xl.jpg",
       "subDepartmentId": "towels-linens"
     },
     {
       "id": "shower-curtains",
       "name": "Shower Curtains",
       "variations": [],
+      "imageUrl": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202234/1183/open-box-under-the-sea-organic-shower-curtain-o.jpg",
       "subDepartmentId": "towels-linens"
     },
     {
       "id": "pillow-inserts",
       "name": "Pillow Inserts",
       "variations": [],
+      "imageUrl": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202234/1129/down-alternative-pillow-inserts-z.jpg",
       "subDepartmentId": "pillows"
     },
     {
       "id": "outdoor-pillows",
       "name": "Outdoor Pillows",
       "variations": [],
+      "imageUrl": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202243/0138/sunbrella-awning-striped-indoor-outdoor-pillows-o.jpg",
       "subDepartmentId": "pillows"
     },
     {
       "id": "throw-blankets",
       "name": "Throw Blankets",
       "variations": [],
+      "imageUrl": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202233/0177/cozy-pom-pom-sherpa-throws-z.jpg",
       "subDepartmentId": "throws"
     },
     {
       "id": "picture-frames",
       "name": "Picture Frames",
       "variations": [],
+      "imageUrl": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202229/0789/multi-mat-wood-gallery-oversized-frames-z.jpg",
       "subDepartmentId": "frames-vases"
     },
     {
       "id": "vases",
       "name": "Vases",
       "variations": [],
+      "imageUrl": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202234/0701/open-box-handcrafted-weathered-terracotta-vases-z.jpg",
       "subDepartmentId": "frames-vases"
     },
     {
       "id": "candles-home-fragrance",
       "name": "Candles & Home Fragrance",
       "variations": [],
+      "imageUrl": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202236/0396/fireside-cinnamon-scent-collection-5-z.jpg",
       "subDepartmentId": "candles"
     },
     {
       "id": "lanterns-candleholders",
       "name": "Lanterns & Candleholders",
       "variations": [],
+      "imageUrl": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202235/0148/caleb-handcrafted-metal-indoor-outdoor-lanterns-3-z.jpg",
       "subDepartmentId": "candles"
     },
     {
       "id": "ornaments-tree-toppers",
       "name": "Ornaments & Tree Toppers",
       "variations": [],
+      "imageUrl": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202233/0412/etched-mercury-glass-ornaments-z.jpg",
       "subDepartmentId": "christmas-decor"
     },
     {
       "id": "stockings",
       "name": "Stockings & Stocking Holders",
       "variations": [],
+      "imageUrl": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202234/0061/holiday-icons-crewel-stockings-o.jpg",
       "subDepartmentId": "christmas-decor"
     },
     {
       "id": "christmas-trees",
       "name": "Faux Christmas Trees",
       "variations": [],
+      "imageUrl": "https://assets.pbimgs.com/pbimgs/rk/images/dp/ecm/202244/0574/001/001.jpg",
       "subDepartmentId": "christmas-decor"
     }
   ],
